@@ -2,6 +2,7 @@
 <h1 align="center">Hi, I'm Bobby 👋</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bobby-s-dev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <a href="https://twitter.com/"><img src="https://img.shields.io/twitter/follow/YOUR_TWITTER?style=social" alt="Twitter Follow"></a>
 </p>
 
 ---
