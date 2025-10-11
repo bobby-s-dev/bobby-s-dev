@@ -21,12 +21,6 @@
 
 ---
 
-## ⚡ GitHub Activity Graph
-
-[![Bobby's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=bobby-s-dev&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 🧰 Languages and Tools
 
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python">
