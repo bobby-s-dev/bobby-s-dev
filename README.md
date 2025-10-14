@@ -7,11 +7,6 @@
 
 ---
 
-## 🏆 GitHub Profile Trophy
-[![Trophy](https://github-profile-trophy.vercel.app/?username=bobby-s-dev&theme=algolia&row=1&column=7)](https://github.com/bobby-ss-dev/github-profile-trophy)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
