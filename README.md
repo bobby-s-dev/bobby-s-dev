@@ -26,11 +26,4 @@
 
 ---
 
-## 🔗 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com)
-
----
-
 *Feel free to check out my repositories and contributions!*
